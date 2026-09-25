@@ -1,4 +1,4 @@
-# 📷 Webcam Viewer
+# 📷 Simple Camera
 
 A sleek, lightweight, and standalone camera application for Windows. Designed with a modern Windows 11 dark mode aesthetic, this app allows you to easily view your webcam feed, capture high-quality photos, and record videos. 
 
