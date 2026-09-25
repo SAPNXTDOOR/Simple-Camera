@@ -14,16 +14,11 @@ A sleek, lightweight, and standalone camera application for Windows. Designed wi
 
 ## 🚀 Installation & Usage
 
-### Option 1: Download the Portable Executable (Recommended)
+### Download
 1. Go to the [Releases](../../releases) page of this repository.
-2. Download the latest `WebcamViewer.exe`.
+2. Download the latest `SimpleCamera_Setup.exe`.
 3. Double-click to run! No installation or prerequisites required. 
 *(Note: Because it is a bundled standalone executable, it may take a few seconds to extract and open on the very first launch).*
-
-### Option 2: Build with Inno Setup (Full Installer)
-If you prefer a standard Windows installation wizard:
-1. Download `WebcamViewer_Setup.exe` from the Releases page.
-2. Run the installer to add the app to your Start Menu, create a Desktop shortcut, and set up an uninstaller.
 
 ## 🛠️ Building from Source
 
